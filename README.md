@@ -1,6 +1,6 @@
 # Terraform-EC2
 
-* This project is to create Aws sample EC2 instance
+* This project is to create AWS sample EC2 instance
 
 * Create an AWS free-tier account. Also create a Key-pair in AWS console to login to the machines that will be deployed.
 
