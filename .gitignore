@@ -1,2 +1,3 @@
 #ignore .terraform files
 .terraform/
+variables.tf
