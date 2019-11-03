@@ -1,4 +1,4 @@
-# Terraform-EC2
+### Terraform-EC2
 
 * This project is to create AWS sample EC2 instance
 
